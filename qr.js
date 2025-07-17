@@ -106,7 +106,7 @@ text: desc,
 contextInfo: {
 externalAdReply: {
 title: "spirity-xmd",
-thumbnailUrl: "https://files.catbox.moe/zmhz85.jpg",
+thumbnailUrl: "https://i.imgur.com/u2E6S7h.png",
 sourceUrl: "https://whatsapp.com/channel/0029VbAfF6f1dAw7hJidqS0i",
 mediaType: 1,
 renderLargerThumbnail: true
@@ -149,7 +149,7 @@ text: desc,
 contextInfo: {
 externalAdReply: {
 title: "spirity-xmd",
-thumbnailUrl: "https://files.catbox.moe/zmhz85.jpg",
+thumbnailUrl: "https://i.imgur.com/u2E6S7h.png",
 sourceUrl: "https://whatsapp.com/channel/0029VbAfF6f1dAw7hJidqS0i",
 mediaType: 2,
 renderLargerThumbnail: true,
